@@ -1,1 +1,1 @@
-# DIP
+# The Dependency Inversion Principle (DIP) is one of the SOLID principles, and it suggests that high-level modules should not depend on low-level modules, but both should depend on abstractions. Additionally, abstractions should not depend on details; details should depend on abstractions.
